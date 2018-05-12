@@ -1,0 +1,35 @@
+_repo: The-Shrieking-Pit_20494
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20494-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Rees, Arthur J. (Arthur John)
+    birthdate: 1872
+    deathdate: 1942
+    gutenberg_agent_id: '4400'
+    url: http://www.gutenberg.org/2009/agents/4400
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_J_Rees
+description: American detective Grant Colwyn is on a leisurely holiday in a fashionable
+  seaside hotel in Norfolk when one morning during breakfast the strange behavior
+  of one of the other guests catches his attention. The young man's unusual conduct
+  alarms other visitors as well,  Colwyn suspects a severe case of a shell-shock.
+  The guest is escorted to his bedroom with some help from Colwyn and Sir Henry Durwood,
+  a doctor who happens to be staying at the hotel, but a few hours later the ill guest
+  disappears without a trace. The next day a man of his description is accused of
+  a murder, and Detective Colwyn can not resist the temptation to get involved ...
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '2007-02-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20494'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Detective and mystery stories'
+title: The Shrieking Pit
+url: http://www.gutenberg.org/ebooks/20494
